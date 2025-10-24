@@ -1,0 +1,65 @@
+Rider,Country,Born,Height(m),Weight(kg),Rider_ID
+Maurice Garin,France,1871-03-03,1.62,60.0,1
+Henri Cornet,France,1884-08-04,1.77,68.0,2
+Louis Trousselier,France,1881-06-29,1.77,68.0,3
+René Pottier,France,1879-06-05,1.77,68.0,4
+Lucien Petit-Breton,France,1882-10-18,1.77,68.0,5
+François Faber,Luxembourg,1887-01-26,1.78,88.0,6
+Octave Lapize,France,1887-10-24,1.77,68.0,7
+Gustave Garrigou,France,1884-09-24,1.77,68.0,8
+Odile Defraye,Belgium,1888-07-14,1.77,68.0,9
+Philippe Thys,Belgium,1889-10-08,1.77,68.0,10
+Firmin Lambot,Belgium,1886-03-14,1.77,68.0,11
+Léon Scieur,Belgium,1888-03-18,1.77,68.0,12
+Henri Pélissier,France,1889-01-22,1.77,68.0,13
+Ottavio Bottecchia,Italy,1894-08-01,1.77,68.0,14
+Lucien Buysse,Belgium,1892-09-11,1.77,68.0,15
+Nicolas Frantz,Luxembourg,1899-11-04,1.77,68.0,16
+Maurice De Waele,Belgium,1896-12-27,1.77,68.0,17
+André Leducq,France,27/02/1904,1.77,68.0,18
+Antonin Magne,France,15/01/1904,1.77,68.0,19
+Georges Speicher,France,08/06/1907,1.77,68.0,20
+Romain Maes,Belgium,10/08/1912,1.77,68.0,21
+Sylvère Maes,Belgium,27/08/1909,1.77,68.0,22
+Roger Lapébie,France,16/01/1911,1.77,68.0,23
+Gino Bartali,Italy,18/07/1914,1.72,66.0,24
+Jean Robic,France,10/06/1921,1.61,60.0,25
+Fausto Coppi,Italy,15/09/1919,1.77,68.0,26
+Ferdinand Kübler,Switzerland,24/07/1919,1.77,68.0,27
+Hugo Koblet,Switzerland,21/03/1925,1.77,68.0,28
+Louison Bobet,France,12/03/1925,1.79,75.0,29
+Roger Walkowiak,France,02/03/1927,1.77,68.0,30
+Jacques Anquetil,France,08/01/1934,1.76,70.0,31
+Charly Gaul,Luxembourg,08/12/1932,1.73,64.0,32
+Federico Bahamontes,Spain,09/07/1928,1.77,68.0,33
+Gastone Nencini,Italy,01/03/1930,1.77,68.0,34
+Felice Gimondi,Italy,29/09/1942,1.81,71.0,35
+Lucien Aimar,France,28/04/1941,1.77,68.0,36
+Roger Pingeon,France,28/08/1940,1.82,72.0,37
+Jan Janssen,Netherlands,19/05/1940,1.77,68.0,38
+Eddy Merckx,Belgium,17/06/1945,1.82,74.0,39
+Luis Ocaña,Spain,09/06/1945,1.65,52.0,40
+Bernard Thévenet,France,10/01/1948,1.77,68.0,41
+Lucien Van Impe,Belgium,20/10/1946,1.77,58.0,42
+Bernard Hinault,France,14/11/1954,1.74,62.0,43
+Joop Zoetemelk,Netherlands,03/12/1946,1.73,68.0,44
+Laurent Fignon,France,12/08/1960,1.74,67.0,45
+Greg LeMond,United States,26/06/1961,1.78,67.0,46
+Stephen Roche,Ireland,28/11/1959,1.75,74.0,47
+Pedro Delgado,Spain,15/04/1960,1.71,64.0,48
+Miguel Indurain,Spain,16/07/1964,1.86,80.0,49
+Bjarne Riis,Denmark,03/04/1964,1.84,71.0,50
+Jan Ullrich,Germany,02/12/1973,1.83,73.0,51
+Marco Pantani,Italy,13/01/1970,1.72,57.0,52
+Óscar Pereiro,Spain,03/08/1977,1.77,68.0,53
+Alberto Contador,Spain,06/12/1982,1.76,62.0,54
+Carlos Sastre,Spain,22/04/1975,1.73,60.0,55
+Andy Schleck,Luxembourg,10/06/1985,1.86,68.0,56
+Cadel Evans,Australia,14/02/1977,1.74,64.0,57
+Bradley Wiggins,Great Britain,28/04/1980,1.9,69.0,58
+Chris Froome,Great Britain,20/05/1985,1.86,69.0,59
+Vincenzo Nibali,Italy,14/11/1984,1.8,65.0,60
+Geraint Thomas,Great Britain,25/05/1986,1.83,71.0,61
+Egan Bernal,Colombia,13/01/1997,1.75,60.0,62
+Tadej Poga?ar,Slovenia,21/09/1998,1.77,66.0,63
+Jonas Vingegaard,Denmark,10/12/1996,1.75,60.0,64
